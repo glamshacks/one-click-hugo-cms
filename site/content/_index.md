@@ -1,7 +1,7 @@
 ---
 title: GlamShacks
 subtitle: Explore unique locations and accomodations
-image: /img/home-jumbotron.jpg
+image: img/pexels-photo-3330118.jpeg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
